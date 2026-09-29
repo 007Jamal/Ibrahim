@@ -1,2 +1,2 @@
 # Ibrahim
-AI Poertfolio
+AI Portfolio
