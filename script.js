@@ -1,0 +1,1 @@
+(function(){const p=document.querySelector('.progress');function update(){if(!p)return;const h=document.documentElement.scrollHeight-innerHeight;p.style.width=(h>0?(scrollY/h)*100:0)+'%'}window.addEventListener('scroll',update,{passive:true});window.addEventListener('load',update)})();
